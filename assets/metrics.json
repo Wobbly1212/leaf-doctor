@@ -1,0 +1,68 @@
+{
+  "selected_run": "run2",
+  "used_tta": false,
+  "validation_mAP50": {
+    "run1": 0.44319235291201614,
+    "run2": 0.46674468317639417,
+    "run3": 0.4541558824765303
+  },
+  "test_mAP50": 0.6353760275944744,
+  "test_mAP5095": 0.49184219396640433,
+  "test_precision": 0.6056570065006152,
+  "test_recall": 0.5911015849626566,
+  "mean_per_class_AP50": 0.6353760275944745,
+  "generalization": {
+    "train": {
+      "mAP50": 0.974248268389819,
+      "mAP5095": 0.8013361150194872
+    },
+    "val": {
+      "mAP50": 0.46674468317639417,
+      "mAP5095": 0.3154878831666
+    },
+    "test": {
+      "mAP50": 0.6353760275944744,
+      "mAP5095": 0.49184219396640433
+    }
+  },
+  "test_mAP50_bootstrap_ci": {
+    "point": 0.5550854160113482,
+    "ci_low": 0.510884865050094,
+    "ci_high": 0.6308768750952581,
+    "n_boot": 1000
+  },
+  "weakest_classes": {
+    "Tomato leaf late blight": 0.181,
+    "Corn Gray leaf spot": 0.22,
+    "Tomato Early blight leaf": 0.254,
+    "Potato leaf": 0.276,
+    "Potato leaf late blight": 0.367
+  },
+  "strongest_classes": {
+    "Peach leaf": 0.848,
+    "grape leaf black rot": 0.975,
+    "Strawberry leaf": 0.994,
+    "Corn rust leaf": 0.995,
+    "grape leaf": 0.995
+  },
+  "preregistration": {
+    "weak_expected": [
+      "Corn Gray leaf spot",
+      "Corn rust leaf",
+      "grape leaf",
+      "Apple Scab Leaf",
+      "Apple rust leaf"
+    ],
+    "weak_actual": [
+      "Tomato leaf late blight",
+      "Corn Gray leaf spot",
+      "Tomato Early blight leaf",
+      "Potato leaf",
+      "Potato leaf late blight"
+    ],
+    "weak_hits": [
+      "Corn Gray leaf spot"
+    ],
+    "weak_hit_rate": "1/5"
+  }
+}
