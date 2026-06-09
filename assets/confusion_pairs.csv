@@ -1,0 +1,436 @@
+class_a,class_b,similarity
+Tomato leaf late blight,grape leaf,0.991
+Peach leaf,grape leaf black rot,0.99
+Bell_pepper leaf,grape leaf,0.99
+Corn leaf blight,Corn rust leaf,0.989
+Bell_pepper leaf,Potato leaf late blight,0.989
+Potato leaf late blight,Potato leaf,0.989
+Apple rust leaf,Bell_pepper leaf,0.988
+Potato leaf late blight,Tomato Early blight leaf,0.987
+Cherry leaf,Tomato leaf mosaic virus,0.987
+Apple Scab Leaf,Bell_pepper leaf,0.986
+Tomato leaf late blight,Tomato leaf mosaic virus,0.986
+Apple Scab Leaf,Potato leaf late blight,0.985
+Tomato Early blight leaf,Tomato leaf late blight,0.985
+Potato leaf late blight,grape leaf,0.985
+Potato leaf,Tomato leaf late blight,0.984
+Potato leaf,Tomato leaf mosaic virus,0.984
+Tomato Early blight leaf,grape leaf,0.984
+Potato leaf,grape leaf,0.983
+Bell_pepper leaf,Potato leaf,0.983
+Tomato leaf mosaic virus,Tomato mold leaf,0.983
+Bell_pepper leaf spot,Cherry leaf,0.982
+Potato leaf,Tomato Early blight leaf,0.982
+Apple Scab Leaf,Tomato Early blight leaf,0.982
+Apple Scab Leaf,grape leaf,0.982
+Tomato leaf mosaic virus,grape leaf,0.981
+Apple rust leaf,Potato leaf late blight,0.981
+Potato leaf late blight,Tomato leaf late blight,0.98
+Bell_pepper leaf,Tomato leaf late blight,0.98
+Tomato Early blight leaf,Tomato leaf mosaic virus,0.98
+Apple Scab Leaf,Apple rust leaf,0.979
+Tomato leaf late blight,Tomato leaf yellow virus,0.979
+Corn leaf blight,Potato leaf late blight,0.979
+Corn Gray leaf spot,Squash Powdery mildew leaf,0.979
+Apple rust leaf,Corn rust leaf,0.979
+Apple Scab Leaf,Tomato leaf late blight,0.979
+Potato leaf late blight,Tomato leaf mosaic virus,0.978
+Potato leaf,Tomato mold leaf,0.978
+Corn rust leaf,Potato leaf late blight,0.978
+Apple rust leaf,Tomato Septoria leaf spot,0.977
+Cherry leaf,Potato leaf late blight,0.977
+Blueberry leaf,Peach leaf,0.977
+Apple rust leaf,Corn leaf blight,0.977
+Strawberry leaf,grape leaf black rot,0.976
+Cherry leaf,Potato leaf,0.976
+Bell_pepper leaf,Tomato Early blight leaf,0.976
+Tomato leaf late blight,Tomato mold leaf,0.976
+Peach leaf,Strawberry leaf,0.976
+Potato leaf late blight,Tomato Septoria leaf spot,0.975
+Soyabean leaf,Tomato leaf late blight,0.975
+Corn Gray leaf spot,Corn leaf blight,0.975
+Bell_pepper leaf spot,Blueberry leaf,0.975
+Blueberry leaf,Strawberry leaf,0.975
+Cherry leaf,grape leaf,0.974
+Corn leaf blight,Tomato Early blight leaf,0.973
+Tomato mold leaf,grape leaf,0.973
+Cherry leaf,Tomato leaf late blight,0.973
+Bell_pepper leaf,Cherry leaf,0.972
+Apple rust leaf,grape leaf,0.972
+Blueberry leaf,Potato leaf late blight,0.972
+Apple leaf,Peach leaf,0.971
+Corn leaf blight,Tomato leaf mosaic virus,0.971
+Apple Scab Leaf,Potato leaf,0.971
+Soyabean leaf,grape leaf,0.971
+Apple leaf,grape leaf black rot,0.971
+Tomato leaf yellow virus,Tomato mold leaf,0.97
+Blueberry leaf,Tomato Septoria leaf spot,0.97
+Corn leaf blight,Potato leaf,0.97
+Bell_pepper leaf,Blueberry leaf,0.97
+Bell_pepper leaf,Corn leaf blight,0.97
+Tomato Early blight leaf,Tomato mold leaf,0.97
+Bell_pepper leaf,Soyabean leaf,0.97
+Bell_pepper leaf spot,Strawberry leaf,0.969
+Bell_pepper leaf spot,grape leaf,0.969
+Bell_pepper leaf,Tomato leaf mosaic virus,0.969
+Cherry leaf,Soyabean leaf,0.969
+Corn rust leaf,Tomato Early blight leaf,0.969
+Apple Scab Leaf,Corn leaf blight,0.968
+Bell_pepper leaf spot,Potato leaf,0.968
+Bell_pepper leaf spot,Bell_pepper leaf,0.968
+Tomato leaf mosaic virus,Tomato leaf yellow virus,0.968
+Apple rust leaf,Tomato Early blight leaf,0.968
+Corn Gray leaf spot,Corn rust leaf,0.967
+Corn leaf blight,grape leaf,0.967
+Apple leaf,Tomato leaf bacterial spot,0.967
+Cherry leaf,Tomato mold leaf,0.966
+Apple rust leaf,Blueberry leaf,0.966
+Peach leaf,Raspberry leaf,0.966
+Blueberry leaf,grape leaf,0.966
+Bell_pepper leaf,Tomato Septoria leaf spot,0.965
+Apple Scab Leaf,Blueberry leaf,0.965
+Apple Scab Leaf,Tomato leaf mosaic virus,0.965
+Bell_pepper leaf spot,Tomato leaf mosaic virus,0.964
+Blueberry leaf,Tomato leaf bacterial spot,0.964
+Bell_pepper leaf,Corn rust leaf,0.964
+Bell_pepper leaf spot,Soyabean leaf,0.963
+Soyabean leaf,Strawberry leaf,0.963
+Potato leaf,Tomato leaf yellow virus,0.963
+Potato leaf late blight,Soyabean leaf,0.963
+Bell_pepper leaf spot,Potato leaf late blight,0.963
+Blueberry leaf,grape leaf black rot,0.963
+Soyabean leaf,Tomato leaf bacterial spot,0.962
+Blueberry leaf,Soyabean leaf,0.962
+Strawberry leaf,Tomato leaf bacterial spot,0.962
+Raspberry leaf,Tomato leaf,0.962
+Peach leaf,Tomato Septoria leaf spot,0.962
+Corn Gray leaf spot,Tomato mold leaf,0.962
+Apple rust leaf,Potato leaf,0.962
+Cherry leaf,Tomato Early blight leaf,0.961
+Corn rust leaf,grape leaf,0.961
+Corn rust leaf,Potato leaf,0.961
+Potato leaf late blight,Tomato mold leaf,0.961
+Tomato leaf bacterial spot,grape leaf,0.961
+Squash Powdery mildew leaf,Tomato mold leaf,0.961
+Corn leaf blight,Tomato mold leaf,0.961
+Apple Scab Leaf,Tomato Septoria leaf spot,0.96
+Blueberry leaf,Tomato Early blight leaf,0.959
+Blueberry leaf,Cherry leaf,0.959
+Apple Scab Leaf,Corn rust leaf,0.959
+Raspberry leaf,Strawberry leaf,0.958
+Bell_pepper leaf spot,Tomato leaf,0.958
+Bell_pepper leaf spot,Tomato leaf late blight,0.958
+Raspberry leaf,grape leaf black rot,0.958
+Bell_pepper leaf,Tomato leaf bacterial spot,0.958
+Tomato leaf yellow virus,grape leaf,0.958
+Corn leaf blight,Tomato leaf late blight,0.957
+Apple Scab Leaf,Soyabean leaf,0.957
+Potato leaf,Soyabean leaf,0.956
+Apple Scab Leaf,Tomato leaf bacterial spot,0.956
+Soyabean leaf,Tomato leaf mosaic virus,0.956
+Bell_pepper leaf,Tomato mold leaf,0.956
+Corn rust leaf,Tomato Septoria leaf spot,0.956
+Bell_pepper leaf spot,Raspberry leaf,0.955
+Tomato Early blight leaf,Tomato Septoria leaf spot,0.955
+Apple Scab Leaf,Cherry leaf,0.955
+Cherry leaf,Tomato leaf,0.955
+Cherry leaf,Corn leaf blight,0.955
+Blueberry leaf,Potato leaf,0.955
+Apple rust leaf,Tomato leaf late blight,0.954
+Potato leaf,Tomato leaf,0.953
+Apple leaf,Strawberry leaf,0.953
+Cherry leaf,Tomato leaf yellow virus,0.953
+Raspberry leaf,Tomato Septoria leaf spot,0.952
+Corn leaf blight,Squash Powdery mildew leaf,0.951
+Peach leaf,Tomato leaf bacterial spot,0.951
+Bell_pepper leaf spot,Tomato Early blight leaf,0.95
+Soyabean leaf,Tomato Early blight leaf,0.95
+Corn leaf blight,Tomato Septoria leaf spot,0.95
+Corn Gray leaf spot,Tomato leaf mosaic virus,0.95
+Potato leaf late blight,Tomato leaf,0.95
+Cherry leaf,Tomato leaf bacterial spot,0.95
+Bell_pepper leaf spot,Peach leaf,0.95
+Bell_pepper leaf spot,grape leaf black rot,0.95
+Blueberry leaf,Raspberry leaf,0.95
+Squash Powdery mildew leaf,grape leaf,0.949
+Corn rust leaf,Tomato leaf mosaic virus,0.949
+Tomato leaf bacterial spot,grape leaf black rot,0.949
+Bell_pepper leaf spot,Tomato leaf bacterial spot,0.949
+Blueberry leaf,Tomato leaf late blight,0.949
+Tomato leaf bacterial spot,Tomato leaf late blight,0.948
+Apple leaf,Blueberry leaf,0.948
+Blueberry leaf,Tomato leaf mosaic virus,0.946
+Apple Scab Leaf,Bell_pepper leaf spot,0.946
+Tomato Septoria leaf spot,grape leaf black rot,0.946
+Corn rust leaf,Tomato mold leaf,0.946
+Corn Gray leaf spot,Tomato Early blight leaf,0.946
+Soyabean leaf,Tomato leaf,0.946
+Squash Powdery mildew leaf,Tomato leaf mosaic virus,0.945
+Apple rust leaf,Tomato leaf mosaic virus,0.945
+Apple rust leaf,Cherry leaf,0.945
+Tomato leaf bacterial spot,Tomato leaf mosaic virus,0.945
+Potato leaf late blight,Tomato leaf bacterial spot,0.945
+Tomato Early blight leaf,Tomato leaf yellow virus,0.945
+Bell_pepper leaf spot,Tomato mold leaf,0.945
+Potato leaf,Tomato Septoria leaf spot,0.945
+Cherry leaf,Tomato Septoria leaf spot,0.944
+Corn rust leaf,Tomato leaf late blight,0.944
+Soyabean leaf,Tomato leaf yellow virus,0.944
+Corn Gray leaf spot,grape leaf,0.944
+Cherry leaf,Strawberry leaf,0.943
+Tomato Septoria leaf spot,grape leaf,0.943
+Tomato leaf late blight,Tomato leaf,0.943
+Blueberry leaf,Corn rust leaf,0.942
+Bell_pepper leaf,Tomato leaf,0.942
+Apple leaf,Cherry leaf,0.942
+Apple rust leaf,Soyabean leaf,0.942
+Apple rust leaf,Bell_pepper leaf spot,0.941
+Apple rust leaf,Tomato leaf bacterial spot,0.941
+Apple Scab Leaf,Tomato mold leaf,0.941
+Squash Powdery mildew leaf,Tomato leaf late blight,0.941
+Blueberry leaf,Corn leaf blight,0.941
+Bell_pepper leaf,Strawberry leaf,0.94
+Corn Gray leaf spot,Potato leaf late blight,0.94
+Bell_pepper leaf,Peach leaf,0.94
+Potato leaf,Tomato leaf bacterial spot,0.939
+Corn rust leaf,Squash Powdery mildew leaf,0.939
+Apple rust leaf,Peach leaf,0.938
+Bell_pepper leaf spot,Tomato Septoria leaf spot,0.938
+Potato leaf late blight,Tomato leaf yellow virus,0.938
+Tomato Early blight leaf,Tomato leaf,0.938
+Peach leaf,Potato leaf late blight,0.938
+Cherry leaf,Corn rust leaf,0.937
+Bell_pepper leaf,grape leaf black rot,0.937
+Strawberry leaf,grape leaf,0.936
+Apple leaf,Bell_pepper leaf spot,0.936
+Cherry leaf,Raspberry leaf,0.936
+Apple Scab Leaf,Peach leaf,0.936
+Raspberry leaf,Tomato two spotted spider mites leaf,0.936
+Tomato leaf,grape leaf,0.936
+Tomato leaf mosaic virus,Tomato leaf,0.934
+Bell_pepper leaf,Tomato leaf yellow virus,0.934
+Strawberry leaf,Tomato leaf,0.934
+Blueberry leaf,Tomato leaf,0.934
+Corn Gray leaf spot,Potato leaf,0.934
+Apple Scab Leaf,grape leaf black rot,0.933
+Squash Powdery mildew leaf,Tomato Early blight leaf,0.933
+Soyabean leaf,Tomato Septoria leaf spot,0.933
+Bell_pepper leaf spot,Tomato leaf yellow virus,0.933
+Apple rust leaf,Corn Gray leaf spot,0.933
+Cherry leaf,Peach leaf,0.933
+Tomato Early blight leaf,Tomato leaf bacterial spot,0.933
+Peach leaf,Soyabean leaf,0.932
+Tomato leaf,Tomato two spotted spider mites leaf,0.932
+Corn Gray leaf spot,Tomato leaf late blight,0.931
+Bell_pepper leaf spot,Corn leaf blight,0.931
+Tomato leaf yellow virus,Tomato leaf,0.931
+Tomato Septoria leaf spot,Tomato leaf,0.931
+Cherry leaf,grape leaf black rot,0.931
+Soyabean leaf,Tomato mold leaf,0.93
+Apple rust leaf,Tomato mold leaf,0.93
+Potato leaf late blight,Squash Powdery mildew leaf,0.93
+Bell_pepper leaf,Squash Powdery mildew leaf,0.929
+Squash Powdery mildew leaf,Tomato leaf bacterial spot,0.929
+Tomato Septoria leaf spot,Tomato leaf mosaic virus,0.929
+Tomato Septoria leaf spot,Tomato leaf late blight,0.928
+Corn leaf blight,Tomato leaf bacterial spot,0.928
+Cherry leaf,Corn Gray leaf spot,0.928
+Potato leaf,Squash Powdery mildew leaf,0.928
+Apple Scab Leaf,Tomato leaf yellow virus,0.928
+Cherry leaf,Squash Powdery mildew leaf,0.928
+Potato leaf late blight,Strawberry leaf,0.927
+Soyabean leaf,grape leaf black rot,0.927
+Potato leaf late blight,grape leaf black rot,0.927
+Strawberry leaf,Tomato Septoria leaf spot,0.927
+Apple Scab Leaf,Strawberry leaf,0.927
+Bell_pepper leaf,Corn Gray leaf spot,0.926
+Apple rust leaf,grape leaf black rot,0.926
+Potato leaf late blight,Raspberry leaf,0.925
+Apple Scab Leaf,Tomato leaf,0.925
+Apple Scab Leaf,Apple leaf,0.924
+Apple leaf,Potato leaf late blight,0.923
+Apple leaf,Soyabean leaf,0.923
+Tomato leaf,grape leaf black rot,0.922
+Bell_pepper leaf spot,Corn rust leaf,0.921
+Peach leaf,Tomato leaf,0.921
+Bell_pepper leaf,Raspberry leaf,0.92
+Peach leaf,grape leaf,0.92
+Strawberry leaf,Tomato leaf late blight,0.92
+Tomato leaf bacterial spot,Tomato mold leaf,0.92
+Apple leaf,Bell_pepper leaf,0.92
+Tomato leaf,Tomato mold leaf,0.92
+Raspberry leaf,Soyabean leaf,0.92
+Apple Scab Leaf,Corn Gray leaf spot,0.92
+Apple leaf,Raspberry leaf,0.92
+Apple leaf,Tomato Septoria leaf spot,0.919
+Apple leaf,Tomato leaf mosaic virus,0.918
+Apple rust leaf,Squash Powdery mildew leaf,0.918
+Apple Scab Leaf,Squash Powdery mildew leaf,0.917
+Corn leaf blight,Soyabean leaf,0.916
+grape leaf black rot,grape leaf,0.915
+Apple rust leaf,Strawberry leaf,0.915
+Tomato Septoria leaf spot,Tomato leaf bacterial spot,0.915
+Potato leaf,Strawberry leaf,0.915
+Peach leaf,Tomato Early blight leaf,0.914
+Blueberry leaf,Tomato mold leaf,0.913
+Peach leaf,Potato leaf,0.913
+Corn rust leaf,Soyabean leaf,0.912
+Squash Powdery mildew leaf,Tomato leaf yellow virus,0.911
+Tomato leaf bacterial spot,Tomato leaf yellow virus,0.911
+Strawberry leaf,Tomato leaf mosaic virus,0.911
+Strawberry leaf,Tomato Early blight leaf,0.91
+Potato leaf,Raspberry leaf,0.91
+Apple leaf,grape leaf,0.91
+Corn rust leaf,Tomato leaf bacterial spot,0.909
+Potato leaf,grape leaf black rot,0.909
+Apple leaf,Potato leaf,0.908
+Soyabean leaf,Squash Powdery mildew leaf,0.908
+Apple leaf,Apple rust leaf,0.907
+Corn leaf blight,Tomato leaf yellow virus,0.906
+Tomato Early blight leaf,grape leaf black rot,0.906
+Peach leaf,Tomato leaf mosaic virus,0.903
+Apple rust leaf,Tomato leaf,0.903
+Apple rust leaf,Raspberry leaf,0.903
+Apple leaf,Corn leaf blight,0.901
+Corn Gray leaf spot,Tomato leaf bacterial spot,0.901
+Corn leaf blight,Peach leaf,0.9
+Tomato leaf mosaic virus,grape leaf black rot,0.9
+Apple leaf,Tomato leaf late blight,0.899
+Peach leaf,Tomato leaf late blight,0.899
+Raspberry leaf,grape leaf,0.899
+Tomato leaf late blight,grape leaf black rot,0.898
+Corn Gray leaf spot,Tomato leaf yellow virus,0.896
+Tomato Septoria leaf spot,Tomato mold leaf,0.896
+Corn rust leaf,Peach leaf,0.896
+Blueberry leaf,Tomato leaf yellow virus,0.896
+Blueberry leaf,Corn Gray leaf spot,0.895
+Apple leaf,Tomato Early blight leaf,0.893
+Raspberry leaf,Tomato Early blight leaf,0.893
+Bell_pepper leaf spot,Squash Powdery mildew leaf,0.892
+Apple Scab Leaf,Raspberry leaf,0.892
+Bell_pepper leaf spot,Corn Gray leaf spot,0.892
+Blueberry leaf,Squash Powdery mildew leaf,0.891
+Corn Gray leaf spot,Tomato Septoria leaf spot,0.891
+Raspberry leaf,Tomato leaf mosaic virus,0.89
+Raspberry leaf,Tomato leaf bacterial spot,0.89
+Tomato leaf bacterial spot,Tomato leaf,0.89
+Corn leaf blight,grape leaf black rot,0.888
+Apple leaf,Tomato leaf,0.887
+Tomato Septoria leaf spot,Tomato two spotted spider mites leaf,0.886
+Corn rust leaf,Tomato leaf yellow virus,0.886
+Apple rust leaf,Tomato leaf yellow virus,0.886
+Raspberry leaf,Tomato leaf late blight,0.883
+Corn leaf blight,Tomato leaf,0.882
+Corn rust leaf,Tomato leaf,0.88
+Strawberry leaf,Tomato leaf yellow virus,0.879
+Corn Gray leaf spot,Soyabean leaf,0.879
+Strawberry leaf,Tomato mold leaf,0.875
+Cherry leaf,Tomato two spotted spider mites leaf,0.873
+Apple leaf,Corn rust leaf,0.873
+Squash Powdery mildew leaf,Tomato Septoria leaf spot,0.872
+Potato leaf late blight,Tomato two spotted spider mites leaf,0.872
+Corn leaf blight,Strawberry leaf,0.872
+Bell_pepper leaf spot,Tomato two spotted spider mites leaf,0.871
+Apple leaf,Tomato mold leaf,0.87
+Corn rust leaf,grape leaf black rot,0.87
+Corn rust leaf,Raspberry leaf,0.868
+Corn rust leaf,Strawberry leaf,0.864
+Potato leaf,Tomato two spotted spider mites leaf,0.864
+Corn leaf blight,Raspberry leaf,0.864
+Apple leaf,Squash Powdery mildew leaf,0.861
+Peach leaf,Tomato mold leaf,0.861
+Tomato mold leaf,grape leaf black rot,0.859
+Peach leaf,Tomato two spotted spider mites leaf,0.859
+Raspberry leaf,Tomato mold leaf,0.858
+Apple leaf,Tomato leaf yellow virus,0.857
+Blueberry leaf,Tomato two spotted spider mites leaf,0.854
+Tomato Septoria leaf spot,Tomato leaf yellow virus,0.854
+Apple leaf,Corn Gray leaf spot,0.851
+Squash Powdery mildew leaf,Strawberry leaf,0.848
+Bell_pepper leaf,Tomato two spotted spider mites leaf,0.847
+Tomato leaf yellow virus,grape leaf black rot,0.844
+Raspberry leaf,Tomato leaf yellow virus,0.84
+Tomato two spotted spider mites leaf,grape leaf black rot,0.839
+Corn Gray leaf spot,Peach leaf,0.836
+Peach leaf,Squash Powdery mildew leaf,0.835
+Peach leaf,Tomato leaf yellow virus,0.835
+Soyabean leaf,Tomato two spotted spider mites leaf,0.835
+Strawberry leaf,Tomato two spotted spider mites leaf,0.832
+Squash Powdery mildew leaf,Tomato leaf,0.83
+Tomato leaf mosaic virus,Tomato two spotted spider mites leaf,0.829
+Apple rust leaf,Tomato two spotted spider mites leaf,0.827
+Corn Gray leaf spot,Tomato leaf,0.826
+Squash Powdery mildew leaf,grape leaf black rot,0.826
+Peach leaf,Soybean leaf,0.826
+Tomato Early blight leaf,Tomato two spotted spider mites leaf,0.825
+Corn Gray leaf spot,Strawberry leaf,0.824
+Corn Gray leaf spot,grape leaf black rot,0.822
+Soybean leaf,grape leaf black rot,0.821
+Corn rust leaf,Tomato two spotted spider mites leaf,0.82
+Tomato two spotted spider mites leaf,grape leaf,0.817
+Tomato leaf late blight,Tomato two spotted spider mites leaf,0.816
+Apple Scab Leaf,Tomato two spotted spider mites leaf,0.815
+Apple leaf,Tomato two spotted spider mites leaf,0.811
+Raspberry leaf,Soybean leaf,0.806
+Tomato mold leaf,Tomato two spotted spider mites leaf,0.806
+Tomato leaf yellow virus,Tomato two spotted spider mites leaf,0.803
+Corn leaf blight,Tomato two spotted spider mites leaf,0.802
+Corn Gray leaf spot,Raspberry leaf,0.799
+Raspberry leaf,Squash Powdery mildew leaf,0.796
+Soybean leaf,Tomato Septoria leaf spot,0.794
+Apple leaf,Soybean leaf,0.789
+Tomato leaf bacterial spot,Tomato two spotted spider mites leaf,0.768
+Apple Scab Leaf,Potato leaf early blight,0.766
+Soybean leaf,Tomato two spotted spider mites leaf,0.75
+Blueberry leaf,Soybean leaf,0.749
+Soybean leaf,Strawberry leaf,0.74
+Apple rust leaf,Soybean leaf,0.739
+Apple rust leaf,Potato leaf early blight,0.736
+Soybean leaf,Tomato leaf bacterial spot,0.726
+Corn Gray leaf spot,Tomato two spotted spider mites leaf,0.726
+Bell_pepper leaf,Potato leaf early blight,0.72
+Potato leaf early blight,Soyabean leaf,0.716
+Potato leaf early blight,grape leaf,0.714
+Potato leaf late blight,Soybean leaf,0.713
+Bell_pepper leaf,Soybean leaf,0.711
+Soybean leaf,Tomato leaf,0.71
+Potato leaf early blight,Tomato leaf late blight,0.707
+Bell_pepper leaf spot,Soybean leaf,0.698
+Squash Powdery mildew leaf,Tomato two spotted spider mites leaf,0.697
+Potato leaf early blight,Tomato Early blight leaf,0.691
+Corn rust leaf,Soybean leaf,0.691
+Cherry leaf,Soybean leaf,0.69
+Corn leaf blight,Soybean leaf,0.687
+Potato leaf early blight,Tomato leaf bacterial spot,0.686
+Potato leaf,Soybean leaf,0.685
+Potato leaf early blight,Potato leaf late blight,0.682
+Potato leaf early blight,Tomato Septoria leaf spot,0.682
+Apple Scab Leaf,Soybean leaf,0.681
+Blueberry leaf,Potato leaf early blight,0.677
+Soyabean leaf,Soybean leaf,0.675
+Soybean leaf,Tomato Early blight leaf,0.67
+Potato leaf early blight,Strawberry leaf,0.669
+Corn rust leaf,Potato leaf early blight,0.66
+Potato leaf early blight,grape leaf black rot,0.654
+Corn leaf blight,Potato leaf early blight,0.649
+Peach leaf,Potato leaf early blight,0.649
+Soybean leaf,grape leaf,0.646
+Soybean leaf,Tomato leaf mosaic virus,0.64
+Potato leaf early blight,Potato leaf,0.626
+Potato leaf early blight,Squash Powdery mildew leaf,0.626
+Potato leaf early blight,Tomato leaf mosaic virus,0.624
+Soybean leaf,Tomato leaf late blight,0.621
+Corn Gray leaf spot,Soybean leaf,0.619
+Soybean leaf,Tomato mold leaf,0.617
+Potato leaf early blight,Tomato leaf yellow virus,0.613
+Cherry leaf,Potato leaf early blight,0.611
+Bell_pepper leaf spot,Potato leaf early blight,0.607
+Soybean leaf,Squash Powdery mildew leaf,0.606
+Corn Gray leaf spot,Potato leaf early blight,0.601
+Apple leaf,Potato leaf early blight,0.594
+Potato leaf early blight,Tomato leaf,0.594
+Potato leaf early blight,Tomato mold leaf,0.59
+Potato leaf early blight,Raspberry leaf,0.551
+Soybean leaf,Tomato leaf yellow virus,0.548
+Potato leaf early blight,Tomato two spotted spider mites leaf,0.421
+Potato leaf early blight,Soybean leaf,0.334
