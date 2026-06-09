@@ -198,7 +198,7 @@ def load_assets():
     return classes, ap_by_class, look_alikes, metrics
 
 
-@st.cache_data
+@st.cache_resource
 def load_font(size: int):
     for cand in (
         "/System/Library/Fonts/Supplemental/Arial.ttf",
