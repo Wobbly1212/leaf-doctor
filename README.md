@@ -17,39 +17,6 @@ read from the project's own saved artifacts (`assets/`) — nothing is invented.
 ## URL: https://leaf-doctor-27classes.streamlit.app/
 ```
 
-> `prepare_assets.py` is only needed if `model/best.pt` and `assets/` are not already present.
-> It reads from the sibling `../PlantDoc` project. Once those files exist (and are committed),
-> the app is fully self-contained and the script is not needed again.
-
-## Deploy (shareable)
-
-The folder is self-contained — `model/best.pt` (~22 MB) and `assets/` are committed, so no dataset
-access is required at runtime.
-
-**Streamlit Community Cloud**
-1. Push this folder to a GitHub repo.
-2. New app → pick the repo → main file = `streamlit_app.py`.
-3. Advanced settings → Python **3.11**. Deploy.
-
-**Hugging Face Spaces**
-1. Create a Space → SDK = **Streamlit**.
-2. Upload the folder contents (keep `streamlit_app.py` at the root).
-3. `requirements.txt` is picked up automatically.
-
-`requirements.txt` pins `opencv-python-headless` (cloud has no system GUI libs) and CPU-friendly
-Torch; first model load takes a few seconds, then inference is ~1–2 s per image.
-
-## Layout
-
-```
-streamlit_app.py     # the app
-prepare_assets.py    # one-time bundling from ../PlantDoc
-model/best.pt        # the selected YOLOv8s weights
-assets/              # per_class_ap.csv, confusion_pairs.csv, metrics.json, classes.json, refs/*.jpg
-.streamlit/config.toml
-requirements.txt · runtime.txt
-```
-
 ## How the honesty works
 
 | Feature | Source artifact |
