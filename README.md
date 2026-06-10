@@ -14,15 +14,7 @@ read from the project's own saved artifacts (`assets/`) — nothing is invented.
 
 ---
 
-## Run locally
-
-```bash
-# 1. (once) bundle the model, metrics and reference crops from the parent project
-python prepare_assets.py
-
-# 2. install and launch
-pip install -r requirements.txt
-streamlit run streamlit_app.py
+## URL: https://leaf-doctor-27classes.streamlit.app/
 ```
 
 > `prepare_assets.py` is only needed if `model/best.pt` and `assets/` are not already present.
