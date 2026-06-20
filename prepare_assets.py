@@ -17,7 +17,7 @@ Run once from inside the app folder:  python prepare_assets.py
 The outputs are committed to the repo and shipped to the cloud host.
 
 Every number the app shows comes from these copied files — nothing is invented,
-in keeping with the project's "no hallucinated numbers" rule (PlantDoc/CLAUDE.md).
+in keeping with the project's documented "no hallucinated numbers" rule.
 """
 
 from __future__ import annotations

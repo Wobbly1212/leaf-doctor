@@ -12,7 +12,7 @@ at a label: for every detection it shows
   • a downloadable diagnosis card.
 
 Every number shown is read from the project's own saved artifacts (assets/),
-never invented — in keeping with PlantDoc/CLAUDE.md's "no hallucinated numbers".
+never invented — in keeping with the project's "no hallucinated numbers" rule.
 
 Run locally:   streamlit run streamlit_app.py
 (First run `python prepare_assets.py` once to bundle the model + metrics.)
