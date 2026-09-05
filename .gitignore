@@ -3,4 +3,25 @@ __pycache__/
 .DS_Store
 .venv/
 venv/
+env/
 *.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights & checkpoints
+# NOTE: model/best.pt is intentionally committed so the Streamlit demo runs
+# out of the box. All other weights are ignored to avoid bloating the repo.
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.joblib
+!model/best.pt
+
+# Training data / large datasets (keep only small demo images in the repo)
+data/
+datasets/
+runs/
+wandb/
